@@ -18,6 +18,8 @@
 
 	--color-text-primary: #fff;
 	--color-text-secondary: #87a3b8;
+
+	--radius: 4px;
 }
 
 body {

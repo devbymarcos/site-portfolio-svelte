@@ -2,8 +2,8 @@
 	<div class="text">
 		<h1>marcos juvêncio</h1>
 		<p>
-			Um desenvolvedor Web atualmente focado em <span>Front-end</span>, construindo o Frontend de
-			sites e aplicativos da Web
+			Um desenvolvedor Web <span>FullStack</span>. Meu Objetivo é a resolução de problemas. através
+			do desenvolvimento de software.
 		</p>
 	</div>
 	<div class="btns">
