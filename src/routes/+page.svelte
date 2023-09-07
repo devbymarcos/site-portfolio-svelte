@@ -3,6 +3,10 @@
 	import About from './About.svelte';
 	import Home from './Home.svelte';
 	import Project from './Project.svelte';
+
+	export let data;
+
+	console.log(data);
 </script>
 
 <div class="grid">
